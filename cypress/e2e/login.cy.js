@@ -4,7 +4,7 @@ const login = new LoginPage();
 
  describe('First Time Automation Testing', ()=> {
       beforeEach(() => {
-        cy.visit("https://www.saucedemo.com/");
+        cy.visit("https://www.saucedemo.com/.");
       })
       
       it('Successfully login with cerdentials', ()=>{
