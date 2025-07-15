@@ -1,4 +1,4 @@
-import LoginPage from "../POM/pages/LoginPage"
+import LoginPage from "../POM/pages/loginpage";
 
 const login = new LoginPage();
 
